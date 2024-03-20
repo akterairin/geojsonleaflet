@@ -1,3 +1,3 @@
-# Hello-leaflet
-Following the quick start from leaflet
-https://leafletjs.com/examples/quick-start/ 
+# GeoJSON
+
+https://leafletjs.com/examples/geojson/ 
